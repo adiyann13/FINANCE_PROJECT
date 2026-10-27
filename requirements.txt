@@ -11,4 +11,6 @@ langchain-openai==1.2.2
 langchain-experimental==0.4.2
 pymupdf4llm==1.27.2.3
 python-multipart==0.0.32
+python-dotenv==1.2.4
 sqlalchemy
+langchain_experimental
